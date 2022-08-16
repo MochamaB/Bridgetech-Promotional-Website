@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Controllers",
+    "\\app\\Views",
+    "\\app\\Views\\pages",
+    "\\app\\Views\\Template",
+    "\\public",
+    "\\public\\css",
+    "\\public\\fonts",
+    "\\public\\img"
+  ],
+  "SelectedNode": "\\app\\Views\\pages\\bridgetechstore.php",
+  "PreviewInSolutionExplorer": false
+}
